@@ -2,9 +2,9 @@
 
 # Menu
 
-<img src="katalog z grafikami/rahul-upadhyay-yDKHJxfiWDk-unsplash.jpg" width=300>
-
 **PIZZA:**
+
+<img src="katalog z grafikami/rahul-upadhyay-yDKHJxfiWDk-unsplash.jpg" width=300>
 
 |Lp.|Pizza                                                      |rozmiar:    |30cm   |40cm   |50cm   |
 |---|-----------------------------------------------------------|------------|-------|-------|-------|
@@ -15,9 +15,9 @@
 |5. | Pizza z grillowanym ananasem i sosem teriyaki             |            |30 zł  |37 zł  |40 zł  |
 |6. | Pizza z wołowiną i zieloną papryką w sosie sojowym        |            |30 zł  |39 zł  |46 zł  |
 
-<img src="katalog z grafikami/elliott-collins-_C4AHSV22hw-unsplash.jpg" width=300>
-
 **NAPOJE:**
+
+<img src="katalog z grafikami/elliott-collins-_C4AHSV22hw-unsplash.jpg" width=300>
 
 |Lp.|Pizza                                                      |rozmiar:    |małe   |duże   |
 |---|-----------------------------------------------------------|------------|-------|-------|
