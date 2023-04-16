@@ -1,5 +1,7 @@
 # Przepisy
 
+## Pizza
+
 **Pizza z krewetkami i mango:**
 
 1. Rozgrzej piekarnik do 220 stopni C.
@@ -43,6 +45,8 @@
 2. Na cienkim spodzie pizzy rozsmaruj sos sojowy.
 3. Nałóż na niego starty ser mozzarella, pokrojoną wołowinę i zieloną paprykę.
 4. Piecz przez 10 minut.
+
+## Piwo
 
 **Piwo:**
 
