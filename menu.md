@@ -41,9 +41,9 @@
 |1. | Koktajle owocowe z dodatkiem zielonej herbaty Matcha      |            |12 zł  |18 zł  |
 |2. | Japońska herbata zielona                                  |            |10 zł  |14 zł  |
 |3. | Tajska lemoniada z imbirem i miętą                        |            |12 zł  |16 zł  |
-|8. | Matcha latte                                              |            |18 zł  |23 zł  |
-|4. | Piwo japońskie Asahi                                      |            |10 zł  |15 zł  |
-|5. | Piwo japońskie Sapporo                                    |            |10 zł  |14 zł  |
-|6. | Piwo japońskie Kirin                                      |            |11 zł  |16 zł  |
-|7. | Piwo japońskie Iki                                        |            |11 zł  |16 zł  |
+|4. | Matcha latte                                              |            |18 zł  |23 zł  |
+|5. | Piwo japońskie Asahi                                      |            |10 zł  |15 zł  |
+|6. | Piwo japońskie Sapporo                                    |            |10 zł  |14 zł  |
+|7. | Piwo japońskie Kirin                                      |            |11 zł  |16 zł  |
+|8. | Piwo japońskie Iki                                        |            |11 zł  |16 zł  |
 
