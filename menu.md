@@ -15,7 +15,7 @@
 
 **PIZZE WEGETARIAŃSKIE:**
 
-<img src="katalog z grafikami/rahul-upadhyay-yDKHJxfiWDk-unsplash.jpg" width=300>
+<img src="katalog z grafikami/eugen-kucheruk-HrrmJtLkfVg-unsplash.jpg" width=300>
 
 |Lp.|Pizza                                                      |rozmiar:    |30cm   |40cm   |50cm   |
 |---|-----------------------------------------------------------|------------|-------|-------|-------|
@@ -24,7 +24,7 @@
 
 **NAPOJE:**
 
-<img src="katalog z grafikami/eugen-kucheruk-HrrmJtLkfVg-unsplash.jpg" width=300>
+<img src="katalog z grafikami/elliott-collins-_C4AHSV22hw-unsplash.jpg" width=300>
 
 |Lp.|Pizza                                                      |rozmiar:    |330 ml |0,5 l   |
 |---|-----------------------------------------------------------|------------|-------|-------|
