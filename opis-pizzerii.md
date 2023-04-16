@@ -6,4 +6,4 @@ Na ścianach wisi kilka ozdobnych lampionów w kształcie kuli, co dodaje nieco 
 
 Menu zawiera wiele unikalnych, azjatyckich składników, takich jak krewetki, kiełki bambusa, tofu i sos sojowy, co daje możliwość zrobienia wspaniałego i oryginalnego jedzenia. Można też zamówić standardowe składniki jakie znajdziemy w tradycyjnej włoskiej pizzy, ale z dodatkiem azjatyckiego smaku.
 
-Pizza w klimacie azjatyckim zazwyczaj ma cienkie, chrupiące ciasto, a na wierzchu znajduje się wiele różnorodnych i smacznych składników, które pochodzą z całej Azji. Wszystko jest starannie doprawione, dzięki czemu smak jest niezwykle złożony i interesujący dla podniebienia.
+Pizza w klimacie azjatyckim zazwyczaj ma cienkie, chrupiące ciasto, a na wierzchu znajduje się wiele różnorodnych i smacznych składników, które pochodzą z całego regionu. Wszystko jest starannie doprawione, dzięki czemu smak jest niezwykle złożony i wręcz niespotykany.
