@@ -29,8 +29,8 @@
 1. Pomidorowy   - 3 zł
 2. Czosnkowy    - 4 zł
 3. Duński       - 4 zł
-4. Curry        - 4 zł 
-5. Turbo Ostry - 5 zł
+4. Curry        - 5 zł 
+5. Turbo Ostry  - 5 zł
 
 ## NAPOJE:
 
@@ -45,5 +45,5 @@
 |5. | Piwo japońskie Asahi                                      |            |10 zł  |15 zł  |
 |6. | Piwo japońskie Sapporo                                    |            |10 zł  |14 zł  |
 |7. | Piwo japońskie Kirin                                      |            |11 zł  |16 zł  |
-|8. | Piwo japońskie Iki                                        |            |11 zł  |16 zł  |
+|8. | Piwo japońskie Iki                                        |            |12 zł  |16 zł  |
 
