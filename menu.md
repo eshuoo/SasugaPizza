@@ -19,7 +19,7 @@
 
 <img src="katalog z grafikami/elliott-collins-_C4AHSV22hw-unsplash.jpg" width=300>
 
-|Lp.|Pizza                                                      |rozmiar:    |małe   |duże   |
+|Lp.|Pizza                                                      |rozmiar:    |330 ml |0,5 l   |
 |---|-----------------------------------------------------------|------------|-------|-------|
 |1. | Koktajle owocowe z dodatkiem zielonej herbaty Matcha      |            |12 zł  |18 zł  |
 |2. | Japońska herbata zielona                                  |            |10 zł  |14 zł  |
