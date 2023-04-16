@@ -19,11 +19,12 @@
 
 **NAPOJE:**
 
-- Koktajle owocowe z dodatkiem zielonej herbaty Matcha
-- Japońska herbata zielona
-- Tajska lemoniada z imbirem i miętą
-- Piwo japońskie
-  - Asahi
-  - Sapporo
-  - Kirin
-  - iki
+|Lp.|Pizza                                                      |rozmiar:    |małe   |duże   |
+|---|-----------------------------------------------------------|------------|-------|-------|
+|1. | Koktajle owocowe z dodatkiem zielonej herbaty Matcha      |            |24 zł  |30 zł  |
+|2. | Japońska herbata zielona                                  |            |26 zł  |33 zł  |
+|3. | Tajska lemoniada z imbirem i miętą                        |            |27 zł  |34 zł  |
+|4. | Piwo japońskie Asahi                                      |            |29 zł  |36 zł  |
+|5. | Piwo japońskie Sapporo                                    |            |30 zł  |37 zł  |
+|6. | Piwo japońskie Kirin                                      |            |30 zł  |39 zł  |
+
