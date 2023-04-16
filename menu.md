@@ -2,7 +2,7 @@
 
 # Menu
 
-**PIZZE MIĘSNE:**
+##PIZZE MIĘSNE:
 
 <img src="katalog z grafikami/rahul-upadhyay-yDKHJxfiWDk-unsplash.jpg" width=300>
 
@@ -13,7 +13,7 @@
 |3. | Pizza z szynką parmeńską i gruszką w sosie hoisin         |            |29 zł  |36 zł  |39 zł  |
 |4. | Pizza z wołowiną i zieloną papryką w sosie sojowym        |            |30 zł  |39 zł  |46 zł  |
 
-**PIZZE WEGETARIAŃSKIE:**
+##PIZZE WEGETARIAŃSKIE:
 
 <img src="katalog z grafikami/eugen-kucheruk-HrrmJtLkfVg-unsplash.jpg" width=300>
 
@@ -22,7 +22,7 @@
 |1. | Pizza z tofu, kiełkami sojowymi i pikantnym sosem chili   |            |27 zł  |34 zł  |38 zł  |
 |2. | Pizza z szynką parmeńską i gruszką w sosie hoisin         |            |29 zł  |36 zł  |39 zł  |
 
-**NAPOJE:**
+##*NAPOJE:
 
 <img src="katalog z grafikami/elliott-collins-_C4AHSV22hw-unsplash.jpg" width=300>
 
