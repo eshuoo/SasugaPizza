@@ -44,5 +44,5 @@
 |4. | Piwo japońskie Asahi                                      |            |10 zł  |15 zł  |
 |5. | Piwo japońskie Sapporo                                    |            |10 zł  |14 zł  |
 |6. | Piwo japońskie Kirin                                      |            |11 zł  |16 zł  |
-|6. | Piwo japońskie Iki                                        |            |11 zł  |16 zł  |
-
+|7. | Piwo japońskie Iki                                        |            |11 zł  |16 zł  |
+|8. | Matcha latte                                              |            |18 zł  |23 zł  |
