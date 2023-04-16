@@ -46,4 +46,14 @@
 
 **Piwo:**
 
-1. Nalej piwo.
+1. Wybierz odpowiedni kufl do piwa, najlepiej z grubszym dnem i szerszym ujściem.
+2. Upewnij się, że kufl jest czysty i suchy.
+3. Schłódź piwo, jeśli jest to konieczne. Idealna temperatura dla większości piw to około 7-10 stopni Celsjusza.
+4. Otwórz butelkę lub puszkę piwa, korzystając z otwieracza do butelek lub klucza do puszek.
+5. Trzymając kufl pod kątem około 45 stopni, zacznij wlewać piwo do kufla, skierowując strumień piwa do środka kufla.
+6. Stopniowo podnoś kufl, stopniowo wylewając piwo prostopadle do szkła, aby uzyskać odpowiednią ilość piany.
+7. Kontynuuj wlewając piwo do kufla, aż do momentu, gdy osiągniesz pożądaną ilość piwa.
+8. Odstaw butelkę lub puszkę piwa na bok.
+9. Odczekaj kilka chwil, aż piana opadnie, a piwo w kuflu osiągnie właściwą klarowność.
+10. Sprawdź, czy ilość piwa w kuflu jest odpowiednia. Jeśli jest za mało, można dodać jeszcze trochę piwa. Jeśli jest za dużo, należy pozostawić trochę miejsca na pianę.
+11. Podaj piwo.
