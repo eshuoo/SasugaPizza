@@ -24,6 +24,8 @@
 
 ## Sosy
 
+<img src="katalog z grafikami/elio-cesaro-EstHGbNyjng-unsplash.jpg" width=300>
+
 1. Pomidorowy   - 3 zł
 2. Czosnkowy    - 4 zł
 3. Duński       - 4 zł
