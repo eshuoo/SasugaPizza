@@ -22,6 +22,14 @@
 |1. | Pizza z tofu, kiełkami sojowymi i pikantnym sosem chili   |            |27 zł  |34 zł  |38 zł  |
 |2. | Pizza z szynką parmeńską i gruszką w sosie hoisin         |            |29 zł  |36 zł  |39 zł  |
 
+## Sosy
+
+1. Pomidorowy   - 3 zł
+2. Czosnkowy    - 4 zł
+3. Duński       - 4 zł
+4. Curry        - 4 zł 
+5. Turbo Ostry - 5 zł
+
 ## NAPOJE:
 
 <img src="katalog z grafikami/elliott-collins-_C4AHSV22hw-unsplash.jpg" width=300>
