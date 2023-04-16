@@ -4,5 +4,5 @@
 - **Numer telefonu:** +48 71 123 45 67
 - **Adres e-mail:** kontakt@sasugapizza.pl
 - **Strona internetowa:** www.sasugapizza.pl
-- **Godziny otwarcia:** Poniedziałek - Niedziela, 11:00-22:00
+- **Godziny otwarcia:** Poniedziałek - Niedziela, 11:00 - 22:00
 
