@@ -1,6 +1,6 @@
 # Opis Zespołu
 
-1. Kucharz - Tomasz Nowak
+1. Kucharz - Peppino Spaghetti
 2. Kelnerka - Magdalena Lewandowska
 3. Kierownik restauracji - Michał Wójcik
 4. Pomoc kuchenna - Janusz Kowalczyk
